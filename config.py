@@ -1,0 +1,8 @@
+
+
+MYSQL_HOST='localhost'
+MYSQL_USER='root'
+MYSQL_PASSWORD='123456'
+
+MYSQL_DATABASE_NAME='stock_tushare'
+UTF_8_CHARSET='utf8'
